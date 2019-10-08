@@ -9,4 +9,4 @@ basic commands for Github.
 `git commit -m "Description of the changes we want to commit to the repo"` - Commits changes to the repository
 `git push origin [name of branch]` - pushes the chnages in your local repository to the remote repository on github
 `git pull origin [name of the branch]` - pulls the changes in a remote repository to your own local repository
-`git clone [link for the repo]` - clones a remote repository to your local folder 
+`git clone [link for the repo]` - clones a remote repository to your local folder

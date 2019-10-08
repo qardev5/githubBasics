@@ -13,3 +13,4 @@ basic commands for Github.
 `git branch` - this lists the branches on your repository    
 `git branch [feature branch]`
 `git log` - shows all the backups created in the repository
+`git checkout [name of branch]` - creates a NEW branch 
